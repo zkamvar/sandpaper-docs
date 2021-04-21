@@ -18,6 +18,11 @@ Programming with Python] lesson. She is proficient with Git, GitHub, and
 Python. She has used R in her undergraduate statistics course, but has not used
 it since. She uses the VSCode IDE and Anaconda Python for her work.
 
+Juana Valdez --- Rstats enthusiast, Microbiologist, Open Science
+: Juana is a research software engineer with a background in microbiology.
+Her PhD work was studying the microbes that live in lakes.  She currently
+works as a data scientist at a the University of Something.
+
 ## R Maintainers
 
 :::::::: callout
