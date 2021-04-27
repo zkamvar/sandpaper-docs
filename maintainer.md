@@ -28,9 +28,10 @@ it since. She uses the VSCode IDE and Anaconda Python for her work.
 
 ## Incubator Maintainers
 
-:::::::::::: callout
+Coyote and Roadrunner --- Neuroimaging
+:   Coyote is one side of the coin; Roadrunner is the other; both are
+post-graduate students investigating on the wonders of the brain.
 
-### FILL ME WITH WONDERFUL STORIES!
 
 ::::::::::::::::::::
 
