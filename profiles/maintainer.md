@@ -24,6 +24,7 @@ it since. She uses the VSCode IDE and Anaconda Python for her work.
 
 ### FILL ME WITH WONDERFUL STORIES!
 
+Drake Asberry --- General tinkerer and current maintainer for Introduction to Geospatial Raster and Vector Data with R. Also currently writing my dissertation for Second Language Acquisition and Teaching at the University of Arizona.
 :::::::::::::
 
 ## Incubator Maintainers
