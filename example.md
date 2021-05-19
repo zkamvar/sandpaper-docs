@@ -32,6 +32,7 @@ Carpentries lesson template:
  2. `objectives` These are the learning objectives for an episode
  3. `keypoints` These are displayed at the end of the episode to reinforce the
     objectives.
+ 4. This is a valid point
 
 ### Code fences
 
@@ -104,7 +105,7 @@ pie(
 )
 ```
 
-<img src="fig/example-rendered-pyramid-1.png" title="plot of chunk pyramid" alt="plot of chunk pyramid" style="display: block; margin: auto;" />
+<img src="fig/example-rendered-pyramid-1.png" style="display: block; margin: auto;" />
 
 
 ## Math
