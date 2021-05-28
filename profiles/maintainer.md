@@ -28,11 +28,8 @@ it since. She uses the VSCode IDE and Anaconda Python for her work.
 
 ## Incubator Maintainers
 
-:::::::::::: callout
-
-### FILL ME WITH WONDERFUL STORIES!
-
-::::::::::::::::::::
-
+Christina Koch --- Zoom Wrangling and Software Whispering
+:   Christina works with research people and software and 
+has a lot of zoom calls every week. Woohoo!
 
 [Plotting and Programming with Python]: https://swcarpentry.github.io/python-novice-gapminder/
