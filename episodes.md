@@ -385,7 +385,7 @@ can also use `fig.cap` to provide a caption that puts the picture into context
 pie(
   c(Sky = 78, "Sunny side of pyramid" = 17, "Shady side of pyramid" = 5), 
   init.angle = 315, 
-  col = c("deepskyblue", "yellow", "yellow3"),
+  col = c("cadetblue2", "cornsilk", "bisque"),
   border = FALSE
 )
 ```
