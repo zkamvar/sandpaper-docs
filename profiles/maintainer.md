@@ -18,6 +18,10 @@ Programming with Python] lesson. She is proficient with Git, GitHub, and
 Python. She has used R in her undergraduate statistics course, but has not used
 it since. She uses the VSCode IDE and Anaconda Python for her work.
 
+
+Testy Tsetse --- NOT a fly
+:   Testy is definitely not a fly. They can program in python pretty well.
+
 ## R Maintainers
 
 :::::::: callout
